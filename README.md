@@ -7,7 +7,7 @@ The module provides a command for retrieving information about catalog media and
 Run the following commands from the project root directory:
 
 ```
-composer require sivaschenko/magento2-clean-media
+composer require ilamp/magento2-clean-media
 bin/magento module:enable Sivaschenko_CleanMedia
 bin/magento setup:upgrade
 ```
